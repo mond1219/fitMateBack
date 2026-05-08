@@ -11,6 +11,8 @@ public class AuthController {
     @PostMapping("/login")
     public String login() {
         // 여기에 로그인 로직 연결
+        // git contribute check!!!
+        
         return "로그인 성공!";
     }
 
